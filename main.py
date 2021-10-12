@@ -1,11 +1,11 @@
 # import statements
 import streamlit as st
 from PIL import Image
-import pandas as pd
-import os
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 import tensorflow
+import time
+from test2 import calories
 
 labels = ['mysore_pak', 'ghevar', 'sohan_papdi', 'ras_malai', 'ariselu', 'kofta', 'aloo_tikki',
                           'gajar_ka_halwa', 'chhena_kheeri', 'kakinada_khaja', 'lassi', 'naan', 'chak_hao_kheer',
@@ -33,8 +33,7 @@ def run():
     st.title('Food Classification and calorie count')
     # load Image
     # Adding upload file option in the web
-    uploaded_file = st.file_uploader("Pick a Photo", type=['pnj','jpeg','jpg'])
-
+    uploaded_file = st.file_uploader("Upload Food Image", type=['pnj','jpeg','jpg'])
     if uploaded_file is not None:
         file_details = {"FileName":uploaded_file.name,"FileType":uploaded_file.type,"FileSize":uploaded_file.size}
         # st.write(file_details)
@@ -54,4 +53,7 @@ def run():
         value = np.argmax(prediction)
         # move_name=mapper(value)
         st.success("Prediction is "+ new_list[int(value)])
+        st.info('You will get the '+str(calories[new_list[int(value)]])+' Calories from '+new_list[int(value)])
+    else:
+        st.warning("Upload an Image to continue.")
 run()

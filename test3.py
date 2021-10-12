@@ -1,4 +1,4 @@
-calories={
+catogries={
     'Mysore Pak':103,
      'Ghevar':74,
     'Sohan Papdi':259,
