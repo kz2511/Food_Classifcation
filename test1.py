@@ -7,6 +7,8 @@ new_list = []
 for i in labels:
     i = i.title().replace('_',' ')
     new_list.append(i)
+print(labels)
+print(new_list)
 model = tensorflow.keras.models.load_model('IF.h5')
 image=load_img('./archive/kofta/6e0a11570f.jpg',target_size=(40,40))
 image=img_to_array(image)
