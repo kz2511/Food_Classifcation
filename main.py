@@ -33,7 +33,7 @@ def run():
     st.title('Food Classification and calorie count')
     # load Image
     # Adding upload file option in the web
-    uploaded_file = st.file_uploader("Upload Food Image", type=['pnj','jpeg','jpg'])
+    uploaded_file = st.file_uploader("Upload Food Image", type=['png','jpeg','jpg'])
     if uploaded_file is not None:
         file_details = {"FileName":uploaded_file.name,"FileType":uploaded_file.type,"FileSize":uploaded_file.size}
         # st.write(file_details)
