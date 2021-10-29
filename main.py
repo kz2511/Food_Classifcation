@@ -1,4 +1,4 @@
-# import statements
+# import Library
 import streamlit as st
 from PIL import Image
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
@@ -6,7 +6,12 @@ import numpy as np
 import tensorflow
 import time
 from test2 import calories
+from test3 import catogries
 
+st.set_page_config(
+   page_title="Food Classification",
+   page_icon="🧊",
+)
 labels = ['mysore_pak', 'ghevar', 'sohan_papdi', 'ras_malai', 'ariselu', 'kofta', 'aloo_tikki',
                           'gajar_ka_halwa', 'chhena_kheeri', 'kakinada_khaja', 'lassi', 'naan', 'chak_hao_kheer',
                           'butter_chicken', 'kajjikaya', 'chicken_razala', 'lyangcha', 'aloo_gobi', 'dal_makhani',
@@ -52,8 +57,9 @@ def run():
         prediction = model.predict(prediction_image)
         value = np.argmax(prediction)
         # move_name=mapper(value)
-        st.success("Prediction is "+ new_list[int(value)])
+        st.success("Prediction Food is "+ new_list[int(value)])
         st.info('You will get the '+str(calories[new_list[int(value)]])+' Calories from '+new_list[int(value)])
+        st.info('This Food is  ' + str(catogries[new_list[int(value)]]))
     else:
         st.warning("Upload an Image to continue.")
 run()
