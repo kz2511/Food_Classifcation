@@ -100,3 +100,56 @@ Lyangcha = [['Bengali Langcha Sweet Recipe in hindi','https://www.youtube.com/wa
             ['Bengali Langcha Sweet Recipe in hindi','https://www.youtube.com/watch?v=zykTqH_F2iY'],
             ['Bengali Langcha Sweet Recipe in hindi','https://www.youtube.com/watch?v=zykTqH_F2iY']]
 
+AlooGobi = [['Aloo Gobhi Spicy Party Style','https://www.youtube.com/watch?v=Iv-qfNzO6qQ'],
+            ['aloo gobi sabji bina pyaaz lehsun gobhi recipe','https://www.youtube.com/watch?v=0oZ6UxuFzis'],
+            ['Aloo Gobi Recipe','https://www.youtube.com/watch?v=LPlSMI8bA6E'],
+            ['Shaadi Wali Aloo Gobi Sabzi','https://www.youtube.com/watch?v=Hnd8G-rCdaw'],
+            ['How To Make Aloo Gobi','https://www.youtube.com/watch?v=s9jgq8wAxeM']]
+
+DalMakhani = [['Restaurant Style Dal Makhani','https://www.youtube.com/watch?v=FTIjbV6yczo'],
+              ['Restaurant Style Dal Makhni Recipe in Hindi','https://www.youtube.com/watch?v=o3k55z-tv9I'],
+              ['घर पर बनाये आसानी एक दम रेस्टोरेंट जैसी दाल मखनी','https://www.youtube.com/watch?v=IrbbkVIPv2s'],
+              ['Dal Makhani Recipe','https://www.youtube.com/watch?v=dOiwccflDkY'],
+              ['Dal Makhani Recipe-Restaurant Style Dal Makhani-How to make Punjabi style Dal Makhani','https://www.youtube.com/watch?v=5RHl-JkKTvY']]
+
+BandarLaddu = [['How to Make Bandar Laddu','https://www.youtube.com/watch?v=uIjFYIqkEAk'],
+               ['Besan Ladoo at home','https://www.youtube.com/watch?v=ejJbDButM6g'],
+               ['besan ladoo recipe ','https://www.youtube.com/watch?v=e_Vq1rbAuPE'],
+               ['Besan Ladoo recipe','https://www.youtube.com/watch?v=OQjfIMZdclA'],
+               ['How To Make Besan Laddu Sweet','https://www.youtube.com/watch?v=0ifYJrMePQA']]
+
+BhindiMasala = [[' Restaurant style Bhindi Masala recipe','https://www.youtube.com/watch?v=ect1YiQALF8'],
+                ['Bhindi ki Sabzi','https://www.youtube.com/watch?v=Vebrbb1y4f4'],
+                ['Dhaba Style Bhindi Recipe','https://www.youtube.com/watch?v=phWpJjgocqU'],
+                ['Masala Bhindi Recipe | Bhindi Sabji','https://www.youtube.com/watch?v=exvf8-cyCIw'],
+                ['Bhindi Dry Masala Recipe','https://www.youtube.com/watch?v=aXjcfzVujPI']]
+
+UnniAppam = [['Unniyappam recipe in Hindi','https://www.youtube.com/watch?v=2oP63ASaqvE'],
+             ['Unniyappam','https://www.youtube.com/watch?v=d_dZ7w3kMIQ'],
+             ['Sweet Unniyappam recipe','https://www.youtube.com/watch?v=twNM0UmeACE'],
+             ['Authentic Kerala Wheat Unniyappam Recipe in Hindi','https://www.youtube.com/watch?v=3hJYmnIBscA'],
+             ['Unni appam Recipe - Unniappam','https://www.youtube.com/watch?v=hz5EIfDjutE']]
+
+KuzhiPaniyaram = [['KuzhiPaniyaram','https://www.youtube.com/watch?v=pATuLoX7xUI'],
+                  ['masala paniyaram recipe','https://www.youtube.com/watch?v=zJ4KcIM2Ey8'],
+                  ['paniyaram recipe','https://www.youtube.com/watch?v=sCmgmOMuQ1M'],
+                  ['Vegetable Paniyaram','https://www.youtube.com/watch?v=6zCHYmtQeBA'],
+                  ['Vegetable Appam Recipe','https://www.youtube.com/watch?v=pue9HCtnPhg']]
+
+Sandesh = [['Sandesh Recipe - How to Make Sandesh','https://www.youtube.com/watch?v=t1vU_tKaCUE'],
+           ['Sandesh Recipe Easy & Special Diwali Sweets','https://www.youtube.com/watch?v=Ag9Id4Wiv90'],
+           ['sandesh recipe','https://www.youtube.com/watch?v=kxwKwxrtiOw'],
+           ['4 Sandesh recipes from scratch Nolen Gurer Sondesh Jolbhora','https://www.youtube.com/watch?v=dzLGwVD1piM'],
+           ['न घी,न मावा,न चाशनी सिर्फ 2 चीजों से बंगाल की फेमस मिठाई बनाये मिनटो मे ','https://www.youtube.com/watch?v=Inn8O2S_2Mw']]
+
+SohanHalwa = [['अजमेर का स्पेशल सोहन हलवा Sohan Halwa Recipe','https://www.youtube.com/watch?v=XSz6xCz6_oo'],
+              ['टिक्की वाला सोहन हलवा बनाए पर्फेक्ट माप के साथ बिना किसी मोल्ड के How To Make Sohan Halwa','https://www.youtube.com/watch?v=uzSCf9e5pxA'],
+              ['Multani Sohan Halwa Original Recipe','https://www.youtube.com/watch?v=R9FSBs_JAgg'],
+              ['Sohan halwa recipe','https://www.youtube.com/watch?v=AppJyAnGJuU'],
+              ['Desi ghee Wala Sohan Halwa Recipe','https://www.youtube.com/watch?v=Rv9CqrBRBBQ']]
+
+Rasgulla = [['Sponge Rasgulla Recipe','https://www.youtube.com/watch?v=wCuiuzmesk8'],
+            ['Sponge Rasgulla Recipe Roshogulla','https://www.youtube.com/watch?v=QLPo1bRY1hY'],
+            ['घर मे कैसे रसगुल्ले बनाये','https://www.youtube.com/watch?v=jJRnTro94uI'],
+            ['rasgulla recipe with homemade chenna','https://www.youtube.com/watch?v=SGnqJ5K-bh4'],
+            ['Bengali Sponge Rasgulla in Cooker','https://www.youtube.com/watch?v=1mMhv4V4N_o']]
