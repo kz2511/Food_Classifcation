@@ -57,3 +57,46 @@ KakinadaKhaja = [['How to Make Kakinada Khaja','https://www.youtube.com/watch?v=
                  ['Khaja Recipe','https://www.youtube.com/watch?v=gJMWgrECz30'],
                  ['Khaja Recipe','https://www.youtube.com/watch?v=hRVt8OYDNDY'],
                  ['Kakinada Kaja Recipe','https://www.youtube.com/watch?v=ZOq4QPkPKNI']]
+
+Lassi = [['पंजाबी लस्सी - Punjabi Lassi Recipe','https://www.youtube.com/watch?v=g4As2DDoUVI'],
+         ['How to make Lassi at home','https://www.youtube.com/watch?v=E-eWorf6fmg'],
+         ['lassi 4 ways with homemade malai dahi','https://www.youtube.com/watch?v=c_IxCZrrHh8'],
+         ['6 अलग स्वाद वाली लस्सी - paan, dab, chocolate, kairi, kesar pista, mango lassi flavors recipe','https://www.youtube.com/watch?v=RCimLIOHcq4'],
+         ['How To make Lassi','https://www.youtube.com/watch?v=SlqpgRCdSyo']]
+
+Naan = [['Best Ever Naan Recipe | No Tandoor No Oven No Yeast Naan Recipe ','https://www.youtube.com/watch?v=kA_3gY9rX4Y'],
+        ['Naan, Garlic Naan, Butter Naan','https://www.youtube.com/watch?v=WnkTTvAVisU'],
+        ['homemade garlic naan bread recipe on tawa','https://www.youtube.com/watch?v=zosoH5dH-uo'],
+        ['तंदूरी नान तवे पर बनायें | Naan Recipe No Yeast, No Oven, No Tandoor ','https://www.youtube.com/watch?v=3iQgO0XSo3c'],
+        ['तंदूरी नान की रेसिपी तवे पर - होटल वाले नान के राज़ - eggless naan recipe in tawa - cookingshooking','https://www.youtube.com/watch?v=bkIrC7vGDQg']]
+
+ChakHaoKheer = [['CHAK-HAO KHEER / MANIPURI BLACK RICE PUDDING','https://www.youtube.com/watch?v=2bJLL7fJZAE'],
+                ['CHAK-HAO KHEER','https://www.youtube.com/watch?v=_xKkkn4Di38'],
+                ['Chak-Hao Kheer','https://www.youtube.com/watch?v=9kBBEqAMvIM'],
+                ['How to make Chak-Hao/Black rice Kheer','https://www.youtube.com/watch?v=Gckq7RzmsZg'],
+                ['Chak-hao Kheer Recipe ','https://www.youtube.com/watch?v=h2-0ryTGczY']]
+
+ButterChicken = [['SPECIAL Dhabha Butter Chicken','https://www.youtube.com/watch?v=NHKA-RVn5S4'],
+                 ['Best Butter Chicken Recipe | ढाबा स्टाइल बटर चिकन | Butter Chicken at home','https://www.youtube.com/watch?v=b7yuoRk227Y'],
+                 ['Butter Chicken Recipe','https://www.youtube.com/watch?v=nF0uwlZiv84'],
+                 ['Restaurant Style Butter Chicken ','https://www.youtube.com/watch?v=bX7AyuNMrVY'],
+                 ['How To Make Butter Chicken At Home ','https://www.youtube.com/watch?v=a03U45jFxOI']]
+
+Kajjikaya = [['kajjikayalu recipe','https://www.youtube.com/watch?v=ckxI1zUc7VM'],
+             ['gujiya recipe_kajjikayalu recipe','https://www.youtube.com/watch?v=XNS3J-HTwW4'],
+             ['How to use karanji/gujiya tools for making delicious yummy designer karanji','https://www.youtube.com/watch?v=q3nUvM-9cIM'],
+             ['Indian Sweet Gujia Recipe, Gujjia With Mava, Sweet Gujjia Recipe by Vahchef','https://www.youtube.com/watch?v=VgrwTOfJdGM'],
+             ['Sooji Dry Fruits Gujhiya Recipe','https://www.youtube.com/watch?v=zXNJOkg4JY8']]
+
+ChickenRazala = [['Chicken Rezala Recipe','https://www.youtube.com/watch?v=pvGNv8spujA'],
+                 ['Kolkata Style Spacial Chicken Rezala Recipe','https://www.youtube.com/watch?v=-axQN2u_354'],
+                 ['Chicken Rezala Recipe','https://www.youtube.com/watch?v=aa_IoKdmd78'],
+                 ['Kolkata Restaurant Style Chicken Rezala Recipe In Hindi','https://www.youtube.com/watch?v=z8wDxmY6fxo'],
+                 ['Chicken Rezala - Eid special Mughlai Kolkata style Rezala chicken delicious & easy time saving recip','https://www.youtube.com/watch?v=6i6z-wZ7rW0']]
+
+Lyangcha = [['Bengali Langcha Sweet Recipe in hindi','https://www.youtube.com/watch?v=a0D9zmwsNaY'],
+            ['Lyangcha : how to make bengali sweet lyangcha in hindi.. One of the famous sweets of Bengal..','https://www.youtube.com/watch?v=Tw-SzR6BqMQ'],
+            ['Langcha | Bengali Langcha Recipe','https://www.youtube.com/watch?v=NHRGZjOxsQU'],
+            ['Bengali Langcha Sweet Recipe in hindi','https://www.youtube.com/watch?v=zykTqH_F2iY'],
+            ['Bengali Langcha Sweet Recipe in hindi','https://www.youtube.com/watch?v=zykTqH_F2iY']]
+
