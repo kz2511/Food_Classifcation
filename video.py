@@ -153,3 +153,53 @@ Rasgulla = [['Sponge Rasgulla Recipe','https://www.youtube.com/watch?v=wCuiuzmes
             ['घर मे कैसे रसगुल्ले बनाये','https://www.youtube.com/watch?v=jJRnTro94uI'],
             ['rasgulla recipe with homemade chenna','https://www.youtube.com/watch?v=SGnqJ5K-bh4'],
             ['Bengali Sponge Rasgulla in Cooker','https://www.youtube.com/watch?v=1mMhv4V4N_o']]
+
+Shankarpali = [['Shakkar para recipe in Hindi','https://www.youtube.com/watch?v=cocfQw4LLO8'],
+               ['शक्करपारे ऐसे बनाएंगे तो 100%कभी नहीं फटेंगे। एकदम खस्ता और क्रिस्पी बनेंगे Crispy Shakarpara Recipe','https://www.youtube.com/watch?v=aiw2IlhqB8w'],
+               ['शक्करपारे और नमकपारे की 100% परफेक्ट रेसिपी','https://www.youtube.com/watch?v=ZLiBphniNq8'],
+               ['3 तरह के नमकपारे, अलग अलग स्वाद, लेकिन एक ही डो से','https://www.youtube.com/watch?v=8LyLjM2mg3I'],
+               ['sweet shakarpara recipe','https://www.youtube.com/watch?v=IIIUxzKJgyI']]
+
+Pithe = [['Dudh Puli Pitha - Famous Bengali Pitha Recipe - Dudh Puli Pithe Recipe','https://www.youtube.com/watch?v=w6MnPinTZEs'],
+         ['Sweet Pitha Recipe','https://www.youtube.com/watch?v=7PPl-LHC4R4'],
+         ['Dudh puli pitha','https://www.youtube.com/watch?v=234JEVO-Q2Q'],
+         ['Dudh Gokul Pitha Recipe','https://www.youtube.com/watch?v=u9jWgsTmrwY'],
+         ['Bengali Pithe Recipe—Coconut and Semolina Dumplings in Milk','https://www.youtube.com/watch?v=2m301mBiUls']]
+
+Imarti = [['Juicy,Crispy Imarti/Jalebi','https://www.youtube.com/watch?v=6H5eL3ZsKK8'],
+          ['imarti jhangri cookingshooking hindi','https://www.youtube.com/watch?v=exqxVvW94bQ'],
+          ['Imarti recipe imarti kaise banate','https://www.youtube.com/watch?v=KCJ_C6dTZLw'],
+          ['imarti,Janghari, urad dal jalebi','https://www.youtube.com/watch?v=4ZHPD46ZmYE'],
+          ['Homemade Mithai! Jangri ya Imarti Ramadan 2021 Special Recipe in Urdu Hindi','https://www.youtube.com/watch?v=ttPuBJtr_Ik']]
+
+MistiDoi = [['bengali mishti doi | mishti dahi recipe','https://www.youtube.com/watch?v=cQdddoWLxDE'],
+            ['बंगाली मिष्टी दही बनाने का आसान तरीका','https://www.youtube.com/watch?v=z8a1wBs-a_w'],
+            ['Mishti Doi Recipe: Bengali Sweet Yoghurt','https://www.youtube.com/watch?v=AYQI3C_r5d0'],
+            ['Mishti Dahi Recipe - How To Make Bengali Mishti Doi - Sweet Yoghurt Recipe','https://www.youtube.com/watch?v=JPPZHVJe2LA'],
+            ['Easy Bengali Mishti Doi Recipe 2 Ways','https://www.youtube.com/watch?v=28NbzMBJgm8']]
+
+NavrattanKorma = [[]]
+
+DaalPuri = [['Dal puri_Dal puri recipe','https://www.youtube.com/watch?v=82xnU5G2rNI'],
+            ['Urad Dal Puri Recip','https://www.youtube.com/watch?v=ClY05rMU9ck'],
+            ['Dal Kachori Recipe','https://www.youtube.com/watch?v=mg8viLi-qn8'],
+            [' Dal Puri recipe Bhavnagar daal puri','https://www.youtube.com/watch?v=Snn12GYcmXQ'],
+            ['Famous Daal Puri Recipe with Tasty Sabji','https://www.youtube.com/watch?v=VANY5P7Jhgk']]
+
+Malapua = [['Malpua Rabri मालपुआ रबरी','https://www.youtube.com/watch?v=rs8YN9-KkoA'],
+           ['Malpua Recipe बिना ख़राब हुए 100%एकदम नरम रसीले आटे का मालपुआ का बहुत ही आसन तरीका Atta Malpua Recipe','https://www.youtube.com/watch?v=UHYGGmkkM8w'],
+           ['Malpua without Khoya Banana Malpua','https://www.youtube.com/watch?v=a2p-uX_RsT4'],
+           ['Malpua recipe without mawa','https://www.youtube.com/watch?v=ESDlnxawkj4'],
+           ['Mawa Malpua Recipe','https://www.youtube.com/watch?v=lDzkvV1Dg8M']]
+
+DalTadka = [['Dal Tadka Punjabi Style','https://www.youtube.com/watch?v=xEeoZYpa5wY'],
+            ['ढाबा Double दाल तड़का','https://www.youtube.com/watch?v=luVzVbH529A'],
+            ['Nagauri Dal Tadka Dhaba Style Daal Recipe','https://www.youtube.com/watch?v=mXYTmqz_izo'],
+            ['Restaurant Style Dal Tadka and Jeera Rice Recipe','https://www.youtube.com/watch?v=5fRrfmpNNno'],
+            ['Dhaba Style Dal Fry','https://www.youtube.com/watch?v=3XTSCbZfEgM']]
+
+AlooMatar = [['Aloo Matar ki Sabzi','https://www.youtube.com/watch?v=bGsomM6F-FI'],
+             ['Aloo Matar Curry Recipe - Potato Peas Curry - Matar Batata Bhaji','https://www.youtube.com/watch?v=oVfWo91JoSM'],
+             ['आलू मटर की मसालेदार सब्ज़ी नए तरीके से Aloo Matar ki Sabzi','https://www.youtube.com/watch?v=Po0uJuDa8V0'],
+             ['Matar Aloo Curry Aloo Matar ki Sabzi','https://www.youtube.com/watch?v=Ja5mxbSAjic'],
+             ['Aloo Matar| Restaurant Style Aloo Matar','https://www.youtube.com/watch?v=8jkGIkQBwGo']]
