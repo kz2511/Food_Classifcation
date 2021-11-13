@@ -203,3 +203,9 @@ AlooMatar = [['Aloo Matar ki Sabzi','https://www.youtube.com/watch?v=bGsomM6F-FI
              ['आलू मटर की मसालेदार सब्ज़ी नए तरीके से Aloo Matar ki Sabzi','https://www.youtube.com/watch?v=Po0uJuDa8V0'],
              ['Matar Aloo Curry Aloo Matar ki Sabzi','https://www.youtube.com/watch?v=Ja5mxbSAjic'],
              ['Aloo Matar| Restaurant Style Aloo Matar','https://www.youtube.com/watch?v=8jkGIkQBwGo']]
+
+PalakPaneer = [['Palak Paneer Recipe-How to Make Easy Palak Paneer-Spinach and Cottage Cheese Recipe','https://www.youtube.com/watch?v=b5bDtzWCR9M'],
+               ['Dhaba Style Palak Paneer. Easy Palak Paneer','https://www.youtube.com/watch?v=vIpIj7PpJ6g'],
+               ['लसुनी पालक पनीर बनाने का तरीका - Lasooni Palak Paneer Dhaba Style','https://www.youtube.com/watch?v=b_o0aJd5FWc'],
+               ['Palak Paneer पालक पनीर | How to make easy restaurant style Palak Paneer','https://www.youtube.com/watch?v=vCDy7vjbz_M'],
+               ['Palak Paneer recipe','https://www.youtube.com/watch?v=5lVLxEr_qgM']]
