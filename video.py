@@ -178,7 +178,11 @@ MistiDoi = [['bengali mishti doi | mishti dahi recipe','https://www.youtube.com/
             ['Mishti Dahi Recipe - How To Make Bengali Mishti Doi - Sweet Yoghurt Recipe','https://www.youtube.com/watch?v=JPPZHVJe2LA'],
             ['Easy Bengali Mishti Doi Recipe 2 Ways','https://www.youtube.com/watch?v=28NbzMBJgm8']]
 
-NavrattanKorma = [[]]
+NavrattanKorma = [['Navratan Korma Restaurant Style नवरत्न कोरमा रेसिपी','https://www.youtube.com/watch?v=eXci8B6Oh7A'],
+                  ['Navratan Korma Recipe नवरत्न कोरमा रेसिपी','https://www.youtube.com/watch?v=HjQbjFLEByM'],
+                  ['Restaurant Style Navratan Korma Recipe','https://www.youtube.com/watch?v=wxp1SIZVXi0'],
+                  ['Navratan Korma - Healthy Nutritious Vegetarian Korma','youtube.com/watch?v=zLWdeav96xI'],
+                  ['Navratan Korma Recipe','https://www.youtube.com/watch?v=MoU7OGiAXZA']]
 
 DaalPuri = [['Dal puri_Dal puri recipe','https://www.youtube.com/watch?v=82xnU5G2rNI'],
             ['Urad Dal Puri Recip','https://www.youtube.com/watch?v=ClY05rMU9ck'],
@@ -209,3 +213,27 @@ PalakPaneer = [['Palak Paneer Recipe-How to Make Easy Palak Paneer-Spinach and C
                ['लसुनी पालक पनीर बनाने का तरीका - Lasooni Palak Paneer Dhaba Style','https://www.youtube.com/watch?v=b_o0aJd5FWc'],
                ['Palak Paneer पालक पनीर | How to make easy restaurant style Palak Paneer','https://www.youtube.com/watch?v=vCDy7vjbz_M'],
                ['Palak Paneer recipe','https://www.youtube.com/watch?v=5lVLxEr_qgM']]
+
+MakkiDiRotiSarsonDaSaag = [['मक्की की रोटी - सरसों का साग - बनाईये बडी आसानी से । Makki Ki Roti Sarson Ka Saag - Easy Recipe','https://www.youtube.com/watch?v=JjZxqmQriXA'],
+                           ['Makki ki Roti & Sarson ka Saag','https://www.youtube.com/watch?v=LZ7drej0Z0g'],
+                           ['ਸਰਸੋ ਦਾ ਸਾਗ ਮੱਕੀ ਦੀ ਰੋਟੀ | Sarson Da Saag Makki Di Roti ','https://www.youtube.com/watch?v=sRlfl-NoaWQ'],
+                           ['सरसो का साग, मक्की की रोटी का सीक्रेट तरीका - sarson ka saag recipe makki roti cookingshooking','https://www.youtube.com/watch?v=tDE2_XKqAlQ'],
+                           ['Sarson Ka Saag Recipe -Punjabi Style Sarson Ka Saag Banane ka Tarika','https://www.youtube.com/watch?v=KMHi9gmfzS8']]
+
+Poornalu = [['prasadam poornam boorelu recipe','https://www.youtube.com/watch?v=Eb1p0C_NOaE'],
+            ['पूरनम बोरेलू रेसिपी-पूर्णालु रेसिपी-Poornalu recipe-Mummys Easy Cooking','https://www.youtube.com/watch?v=7IrR0ne5ci8'],
+            ['Poornam Boorelu Recipe','https://www.youtube.com/watch?v=v6XbTZgSst0'],
+            ['Purnalu','youtube.com/watch?v=sLN8A0ehqnE'],
+            ['Poornam Boorelu Recipe','https://www.youtube.com/watch?v=v6XbTZgSst0']]
+
+ChickenTikka = [['CHICKEN TIKKA KEBAB CHICKEN TIKKA RECIPE','https://www.youtube.com/watch?v=6No7g2GptXY'],
+                ['रेस्टोरेंट जैसा सॉफ्ट और जूसी चिकन टिक्का बनाने का सीक्रेट वो भी बिना तंदूर के','https://www.youtube.com/watch?v=HPGnzNN2Iok'],
+                ['The Best Chicken Tikka Masala Recipe Restaurant Style With Delicious Masala Gravy-चिकन टिक्का मसाला','https://www.youtube.com/watch?v=gjnwdGvdQ7A'],
+                ['Tandoori Chicken Tikka No Oven','https://www.youtube.com/watch?v=Dr_N2WbYM94'],
+                ['Chicken Tikka Masala Recipe Restaurant Style ❤','https://www.youtube.com/watch?v=V1yvq4C_bNo']]
+
+KadhiPakoda = [['Pakoda Kadhi Recipe with Tips n Triks','https://www.youtube.com/watch?v=Zk3pddws0Lg'],
+               ['पकौडा कढी बनाने में क्या क्या दिक्कत आती है Pakoda Kadhi Recipe with Tips n Triks','https://www.youtube.com/watch?v=Zk3pddws0Lg'],
+               ['Kadhi Pakora Recipe कढ़ी पकोड़ा रेसिपी','https://www.youtube.com/watch?v=Oa2s0dklrRo'],
+               ['Punjabi Pakoda Kadhi','https://www.youtube.com/watch?v=zucwY4pw2Rk'],
+               ['Punjabi Pakoda Kadhi पंजाबी पकौड़ा कढ़ी','https://www.youtube.com/watch?v=zucwY4pw2Rk']]
