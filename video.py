@@ -357,3 +357,65 @@ Bhatura = [['Instant Bhature - फूले फूले मुलायम भ�
            ['Chole Bhature Recipe | पंजाबी छोले भटूरे बनाने का सबसे आसान तरीका','https://www.youtube.com/watch?v=8tLKTNTt-lU'],
            ['Delhi Wale Chole Bhature 100% fulenge','https://www.youtube.com/watch?v=FU1ZVLMbWjA'],
            ['10 मिनट बनायें फूले फूले मुलायम भटूरे - बढ़िया भटूरे बिना यीस्ट की विधि - Quick Chole Bhtura Recipe','https://www.youtube.com/watch?v=4DIa2JlXmFk']]
+
+ChickenTikkaMasala = [['Restaurant Style Boneless Chicken Tikka Masala recipe','https://www.youtube.com/watch?v=P78SMfXtJsY'],
+                      ['होटल जैसा चिकन टिक्का मसाला बनाने की सीक्रेट रेसिपी | Best Chicken Tikka Masala','https://www.youtube.com/watch?v=AxTUcGKYQYU'],
+                      ['Chicken Tikka Masala - चिकन टिक्का मसाला - Indian Tandoori Style Homemade Gravy','https://www.youtube.com/watch?v=Qm5X9nXyl8I'],
+                      ['Chicken Tikka Masala Recipe Restaurant Style','https://www.youtube.com/watch?v=1JO_9S-EPVU'],
+                      ['CHICKEN TIKKA MASALA RECIPE | HOW TO MAKE CHICKEN TIKKA MASALA','https://www.youtube.com/watch?v=c2MGcq_m6r4']]
+
+DoubleKaMeetha = [['Hyderabadi Double Ka Meetha - Eid Special Dessert','https://www.youtube.com/watch?v=iKG5DcQW1bI'],
+                  ['HYDERABADI DOUBLE KA MEETHA RECIPE','https://www.youtube.com/watch?v=YbbsBSW7hco'],
+                  ['How To Make HYDERABADI DOUBLE KA MEETHA | Easy Double Ka Meetha Recipe','https://www.youtube.com/watch?v=DFdeJS3q1H8'],
+                  ['Double ka Meetha | Hyderabadi Double ka Meetha','https://www.youtube.com/watch?v=uWETDOrmhIQ'],
+                  ['double ka meetha Hyderabadi dawath wala double ka meetha recipe by my kitchen tasty dishes','https://www.youtube.com/watch?v=FBlm_zvwJZY']]
+
+Kalakand = [['सिर्फ 2 चीजों से 15 Min में दानेदार कलाकंद जो 3 मिठाइयों का स्वाद देगा | Kalakand Recipe','https://www.youtube.com/watch?v=ruHhTpeRjt4'],
+            ['Kalakand Recipe in Hindi | कलाकंद बनाने की विधि (Easy)','https://www.youtube.com/watch?v=PvjqFp160WQ'],
+            ['कलाकंद बनाने का हलवाई वाला तरीका - kalakand recipe secret ingredient','https://www.youtube.com/watch?v=NAKDOnMkNvw'],
+            ['Kalakand Recipe | Kalakand Kaise Banate Hain | Sweets Recipe | Milk Cake Recipe','https://www.youtube.com/watch?v=EIRyiLQKSSw'],
+            ['Easy Special Kalakand Recipe | दानेदार कलाकंद झटपट आसान रेसिपी','https://www.youtube.com/watch?v=VFiZMxvupWM']]
+
+Poha = [['How to make Poha - पोहा झटपट बनायें - Easy Poha Quick Recipe','https://www.youtube.com/watch?v=8LwYrE7PaC0'],
+        ['Poha Recipe-How to make Kanda Poha-Easy Indian Breakfast Recipe-Savory Flattened Rice','https://www.youtube.com/watch?v=VKvwWeVy8Nw'],
+        ['Kanda Poha Recipe | Mumbai Style Kanda Poha','https://www.youtube.com/watch?v=jODnSnhbIbQ'],
+        ['Mumbai Style Kanda Poha','https://www.youtube.com/watch?v=LAcFkm5Soq8'],
+        ['सुबह की जल्दी के लिए टेस्टी पोहा रेसिपी - मारवाड़ी स्टाइल में poha recipe', 'https://www.youtube.com/watch?v=bYKYHNH3FEw']]
+
+Adhirasam = [['Perfect Adhirasam','https://www.youtube.com/watch?v=mYxIotMspSM'],
+             ['Diwali Sweets| Adhirasam Recipe','https://www.youtube.com/watch?v=3EesAxwLy2w'],
+             ['Adhirasam !! Tasty !!Traditional','https://www.youtube.com/watch?v=LcA-9Wk9z_A&t=29s'],
+             ['अधिरसम-अनरसा कैसे बनायें-दीपावली स्पेशल । Adhirasam Recipe','https://www.youtube.com/watch?v=Ng40f18nxAg'],
+             ['Adhirasam(athirasam) Recipe, Diwali Sweet','https://www.youtube.com/watch?v=m1ltPY5JAho']]
+
+Ledikeni = [['Pantua | Langcha','https://www.youtube.com/watch?v=3WF1N-BGJtc'],
+            ['यदि इस ट्रिक से बनाएंगे गुलाब जामुन तो कभी नहीं फटेंगे मुलायम व स्वादिष्ट | Gulab Jamun Recipe','https://www.youtube.com/watch?v=dnPuOSe7Anw'],
+            ['सबसे आसान तरीका बाजार जैसे गुलाब जामुन बनाने का | Perfect Gulab Jamun Recipe','https://www.youtube.com/watch?v=Do9mk9mya_A'],
+            ['Gulab Jamun recipe - Gulab Jamun Recipe with Khoya or mawa','https://www.youtube.com/watch?v=HVMpZNHQV9c'],
+            ['Gulab Jamun | हलवाई जैसे मावे के गुलाब जामुन','https://www.youtube.com/watch?v=GptRW9Lsyj0']]
+
+DharwadPedha = [['How to make Dharwad peda','https://www.youtube.com/watch?v=nV9MYDWGudA'],
+                ['dharwad peda recipe','https://www.youtube.com/watch?v=LEbvgeZLCpE'],
+                ['Dharwad Peda Recipe | Homemade dharwad peda','https://www.youtube.com/watch?v=WpRAH0tLMQo'],
+                ['सिर्फ 5 min में तैयार होंगे ये हलवाई वाले टेस्टी पेड़े बिना मावा,चाशनी और पनीर के | Brown Peda Recipe','https://www.youtube.com/watch?v=_y5mwpP4RkE'],
+                ['केवल 3 तीन चीज़ो से सस्ते में बनाये ढेर सारे मथुरा के पेड़े -Halwai secret tricks -Mathura peda Recipe','https://www.youtube.com/watch?v=vuCritfvJEI']]
+
+DumAloo = [['ढ़ाबा जैसा दम आलू बनाने का सही और आसान तरीका | Dhaba Style Dum Aloo Recipe','https://www.youtube.com/watch?v=JupJtfiNn2M'],
+           ['जब देखोगे ये दम आलू तो कहोगे कि आज ही बनाके खालू | - Dum Aloo Recipe - Kashmiri Shahi Aloo Dum','https://www.youtube.com/watch?v=iDzLyyzn_94'],
+           ['Dum Aloo Recipe | दम आलू , ईजी ग्रेवी के साथ, जिसे रोजाना भी बना सकें','https://www.youtube.com/watch?v=VylXmj9L968'],
+           ['Kashmiri Dum Aloo Recipe कश्मीरी दम आलू शाही','https://www.youtube.com/watch?v=4PHyBi3zKxU'],
+           ['Dum Aloo | Punjabi dum aloo recipe in hindi','https://www.youtube.com/watch?v=hTVWpLz_pzM']]
+
+SutarFeni = [['Flaky Soan Papadi','https://www.youtube.com/watch?v=jTkjxOshLnM'],
+             ['Sutarfeni Recipe Video - Shredded Vermicelli Indian Dessert','https://www.youtube.com/watch?v=A-gxZSEr11g'],
+             ['Sutarfeni Recipe સુતરફેણી Easy to make at home','https://www.youtube.com/watch?v=ffbNjkI3CI4'],
+             ['फेनी बनाने की विधि | Pheni Recipe | Pheniya Recipe','https://www.youtube.com/watch?v=2L_F4C2UhKA'],
+             ['फेनी बनाने की विधि | Sawan Teej Raksha Bandhan Special Feni','https://www.youtube.com/watch?v=CPkCiUt3fVE']]
+
+Gavvalu = [['Wheat Flour Gavvalu Recipe','https://www.youtube.com/watch?v=TlL7Om9P_nE'],
+           ['Karam Gavvalu Recipe','https://www.youtube.com/watch?v=kH3RaKGv6ww'],
+           ['Indian Traditional Festival Sweet Gavvalu Recipe','https://www.youtube.com/watch?v=AQCmurcToEY'],
+           ['Wheat Flour Gavvalu Recipe | Home Made Sweet Shells Making','https://www.youtube.com/watch?v=iAqIbDO6S24'],
+           ['Karam Gavvalu (Masala Gavvalu/Spicy Shells)','https://www.youtube.com/watch?v=dDuOJ6r6Lxo']]
+
+
