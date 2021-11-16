@@ -292,3 +292,68 @@ LittiChokha = [[' Sattu stuffed Batti Chokha Recipe on Gas Stove','https://www.y
                ['Bihari Style Litti Chokha Recipe','https://www.youtube.com/watch?v=IfeaysHvru8'],
                ['न तन्दूर न ओवन, न अंगीठी। कुकर में बनायें लिट्टी चोखा आसान तरीके से | Homemade Litti Chokha Recipe','https://www.youtube.com/watch?v=Cw8PLsXnZRg']]
 
+QubaniKaMeetha = [['Hyderabadi Qubani Ka Meetha Recipe Video in Hindi','https://www.youtube.com/watch?v=6rPL-iUesow'],
+                  ['KHUBANI KA MEETHA Recipe','https://www.youtube.com/watch?v=oonJzGJo0ZM'],
+                  ['Shadiyon Wala Qubani Ka Meetha Recipe','https://www.youtube.com/watch?v=t8cB1E9T-pM'],
+                  ['Khubani Ka Meetha','youtube.com/watch?v=AaaGGNwofpE'],
+                  ['Qubani ka mitha hyderabadi functions wala','https://www.youtube.com/watch?v=Sw1-0peXNyc']]
+
+Jalebi = [['15 Minute me Kurkuri Rasili Jalebi Recipe Hindi - कम सामान में जलेबी की विधि cookingshooking','https://www.youtube.com/watch?v=0w471_wMPP0'],
+          ['Jalebi Recipe','https://www.youtube.com/watch?v=yRPoxGhRbZM'],
+          ['हलवाई जैसे जलेबी | Jalebi Recipe | Crispy Jalebi','https://www.youtube.com/watch?v=D7FkGOpBmEI'],
+          ['Crispy Jalebi Recipe | हलवाई जैसी कुरकुरी जलेबी का secret','https://www.youtube.com/watch?v=EiPZe0K9Q2E'],
+          ['१५ मिनट में बनाएं बिल्कुल हल्वाई जैसी क्रिस्पी और रसीली जलेबी- Instant Jalebi recipe in Marwadi','https://www.youtube.com/watch?v=Wd_oUS57MTQ']]
+
+Kachori = [['हलवाई जैसी खस्ता करारी मूंग दाल की कचोरियाँ | Khasta Kachori Recipe','https://www.youtube.com/watch?v=tFT7moFMqR4'],
+           ['Moong Dal ki Kachori Recipe मूंग दाल कचोरी की सीक्रेट विधि हलवाई जैसी खस्ता - cookingshooking','https://www.youtube.com/watch?v=NCXZg1un5eU'],
+           ['Moong Dal Kachori फूलीफूली खस्ता हलवाई जैसी मूंग दाल कचौड़ी तो ये ट्रिक जरूर अपनना Moong Dal Kachori','https://www.youtube.com/watch?v=kr7zka_3kFQ'],
+           ['crispy moong dal ki khasta kachori recipe - bakery style','https://www.youtube.com/watch?v=-cTLbaRI4RU'],
+           ['Special Raj Kachori Recipe | हलवाई जैसी राज कचौरी आसान रेसिपी','https://www.youtube.com/watch?v=7Mz63qPbiZw']]
+
+AlooMethi = [['आलू-मेथी की सब्जी ऐसे बनाऐंगे तो सब उंगलियां चाट-चाटकर खाऐंगे Aaloo-Methi Ki Sabzi','https://www.youtube.com/watch?v=M1Lzjz0zY90'],
+             ['Aloo Methi Recipe, Methi Aloo Recipe, Fenugreek Potato Recipe','https://www.youtube.com/watch?v=YGmXIQ2F7k4'],
+             ['Aloo Methi Recipe-Simple and Quick Aloo Methi Sabzi-Methi ki Sabzi-Fenugreek Potato Recipe','https://www.youtube.com/watch?v=U0ra1xHVGNM'],
+             ['Aloo Methi Sabzi I ऐसे बनाए आलू मेथी की सब्ज़ी','https://www.youtube.com/watch?v=ulPeDpXzbuo'],
+             ['Aloo Methi | Simple Indian Cooking','https://www.youtube.com/watch?v=N6RBc9vNcoM']]
+
+MaachJhol = [['Spicy Fish Curry | मच्छी करी आसान रेसिपी','https://www.youtube.com/watch?v=xAqwQrwpXxA'],
+             ['MASALA FISH CURRY RECIPE','https://www.youtube.com/watch?v=Pu6ki9y9Nug'],
+             ['Masala Fish curry-tasty and easy recipe','https://www.youtube.com/watch?v=PpKCLohDDaQ'],
+             ['ilish Machcher Sorse Jhole Recipe','https://www.youtube.com/watch?v=WGf7_YPkGKM'],
+             ['Maacher Jhol | Sanjeev Kapoor Khazana','https://www.youtube.com/watch?v=NKAWW-Wx1y0']]
+
+KadaiPaneer = [['Kadhai Paneer Recipe | सबसे स्वादिष्ट कढ़ाई पनीर | Easy Kadai Paneer at home','https://www.youtube.com/watch?v=nRPmoioNisI'],
+               ['कड़ाई पनीर की सही रेसिपी - kadai paneer - kadhai restaurant gravy recipe cookingshooking','https://www.youtube.com/watch?v=e2tT937CdnQ'],
+               ['कढ़ाई पनीर बनाने का नया और आसान तरीका | Restaurant style Kadhai Paneer','https://www.youtube.com/watch?v=GdoPmVID08I'],
+               ['Kadai Paneer Recipe | Spicy Kadhai Paneer Curry with Thick Gravy । कड़ाही पनीर','https://www.youtube.com/watch?v=LHKHcmgAAeM'],
+               ['Kadai Paneer कड़ाई पनीर How to Make Restaurant Style','https://www.youtube.com/watch?v=oMP9X4Lt5mk']]
+
+Doodhpak = [['Doodh Pak Recipe - Easy Doodh Pak Recipe - How to make Doodh Pak - Gujarati Dudh Pak Recipe','https://www.youtube.com/watch?v=UX2k1R0Eyyc'],
+            ['रजवाड़ी दूध पाक बनाने की विधि | Rajwadi Doodhpak Recipe','https://www.youtube.com/watch?v=hIj4BtROMzg'],
+            ['दूध पाक | Doodh Pak','https://www.youtube.com/watch?v=hrkivLVt5ew'],
+            ['નવી ટ્રીક સાથે દૂધપાક બનાવાની રીત | Doodh Pak recipe','https://www.youtube.com/watch?v=FoVYrlhCYnc'],
+            ['શ્રાદ્ધમાં ઓછી મહેનતમાં મલાઈદાર દૂધપાક બનાવાની રીત | Doodh Pak recipe','https://www.youtube.com/watch?v=eRORUPxsBOQ']]
+
+ChanaMasala = [['Chana Masala Restaurant Style','https://www.youtube.com/watch?v=b5Q5rj37ATk'],
+               ['Chana Masala Gravy','https://www.youtube.com/watch?v=0AVHDYe07mI'],
+               ['चना मसाला/channa masala gar kese banay','https://www.youtube.com/watch?v=tLINQ5QdLPg'],
+               ['restaurant style chana masala recipe with masala powder','https://www.youtube.com/watch?v=EL9X-P98m2Q'],
+               ['chana masala recipe','https://www.youtube.com/watch?v=Vtpi61-I3r0']]
+
+Boondi = [['मीठी बूंदी गोल-गोल मोती दाने जैसी | बिना कलर व बिना झारे के | Meethi Boondi','https://www.youtube.com/watch?v=mQYGx63Cx3Y'],
+          ['How To Make Boondi । बेसन की बूंदी । Homemade Boondi','https://www.youtube.com/watch?v=LqkCHIiYzb0'],
+          ['Bundi Recipe | Meethi Boondi Recipe','https://www.youtube.com/watch?v=9ItL13xt8Cc'],
+          ['प्रसाद वाली मीठी बूंदी कैसे बनाते हैं? Meethi Boondi Recipe','https://www.youtube.com/watch?v=pF1Lz3bbyjM'],
+          ['बिना बेसन बिना सोडा मोतियों जैसी गोल रसीली बूंदी बनाने का आसान तरीक़ा | Sweet Boondi Recipe-Guldana','https://www.youtube.com/watch?v=Qk1X0ls1RsY']]
+
+MisiRoti = [['Missi Roti Recipe - Rajathani Misi Roti recipe','https://www.youtube.com/watch?v=RrCiHY-FMiU'],
+            ['Restaurant style missi roti recipe','https://www.youtube.com/watch?v=gblHgxycYVI'],
+            ['Missi Roti by Sanjeev Kapoor','https://www.youtube.com/watch?v=qEohnpJb2cg'],
+            ['रेस्टोरेंट और ढाबा से भी अच्छी मिस्सी रोटी घर पे बनायें - Missi Roti Recipe','https://www.youtube.com/watch?v=VN7wgWkR7Y0'],
+            ['Punjabi Missi Roti _ Mazedaar Missi Roti','https://www.youtube.com/watch?v=kJCTshFmEmk']]
+
+Bhatura = [['Instant Bhature - फूले फूले मुलायम भटूरे झटपट बनायें','https://www.youtube.com/watch?v=P2ECxxaY8Fg'],
+           ['भटूरे बनाने की आसान विधि - छोला भटूरा पंजाबी - Bhature Recipe - Secret & Magic Recipe','https://www.youtube.com/watch?v=tJblfns7T28'],
+           ['Chole Bhature Recipe | पंजाबी छोले भटूरे बनाने का सबसे आसान तरीका','https://www.youtube.com/watch?v=8tLKTNTt-lU'],
+           ['Delhi Wale Chole Bhature 100% fulenge','https://www.youtube.com/watch?v=FU1ZVLMbWjA'],
+           ['10 मिनट बनायें फूले फूले मुलायम भटूरे - बढ़िया भटूरे बिना यीस्ट की विधि - Quick Chole Bhtura Recipe','https://www.youtube.com/watch?v=4DIa2JlXmFk']]
