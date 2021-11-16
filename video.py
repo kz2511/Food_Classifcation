@@ -1,4 +1,4 @@
-Mysore_Pak = [['Mysore Pak Recipe For Beginners','https://www.youtube.com/watch?v=XZOo2L2gKzo'],
+MysorePak = [['Mysore Pak Recipe For Beginners','https://www.youtube.com/watch?v=XZOo2L2gKzo'],
               ['ghee mysore pak recipe','https://www.youtube.com/watch?v=2E4GG6p48L0'],
               ['Mysore Pak Video Recipe ','https://www.youtube.com/watch?v=J_u5-SBxaz4'],
               ['Mysore Pak Recipe - How To Make Mysore Pak','https://www.youtube.com/watch?v=s9p3jgC4Toc'],
@@ -466,6 +466,14 @@ PaneerButterMasala = [['Restaurant style Paneer Butter Masala','https://www.yout
                       ['Restaurant style Paneer Butter Masala | hotel style butter paneer makhanwala with tips & tricks','https://www.youtube.com/watch?v=U1LVDFwi8qI'],
                       ['Paneer Butter Masala Recipe-Restaurant Style Paneer Makhani or Paneer Butter Masala- Butter Paneer','https://www.youtube.com/watch?v=Nr9x7eTpXi8']]
 
-Modak = [[]]
+Modak = [['Modak recipe - How to make Modak','https://www.youtube.com/watch?v=Og5sRXe59Kw'],
+         ['Ukadiche Modak | Steamed Modak','https://www.youtube.com/watch?v=k2uXvIkS0ZI'],
+         ['Modak Recipe गेंहुँ के आटे के बहुत ही स्वादिष्ट मोदक Instant Modak Recipe','https://www.youtube.com/watch?v=-hw6NLLO2xM'],
+         ['दूध के मोदक बनाइये गणेश जी के लिए - आसन तरीका मोदकम का - modak recipe','https://www.youtube.com/watch?v=NKH1QjPQQJ4'],
+         ['ना मावा ना मलाई 10 मिनट में गणपति बाप्पा के सबसे प्रिये मंदिर जैसे स्वादिष्ट मोदक Besan Modak Recipe','https://www.youtube.com/watch?v=roNFuSD58Uw']]
 
-Biryani = [[]]
+Biryani = [['Vegetable Biryani | वेज बिरयानी घर पे | Quick & Easy Veg Biryani Recipe','https://www.youtube.com/watch?v=SZByh7nXp1U'],
+           ['Veg Biryani | कुकर में बनाये झटपट वेज बिरयानी | Instant Veg Biryani Recipe','https://www.youtube.com/watch?v=D9YOKWCatPA'],
+           ['Vegetable Biryani Recipe Video - Restaurant Style','https://www.youtube.com/watch?v=14H53zt7ERU'],
+           ['Quick & Easy Veg Biryani in Pressure Cooker','https://www.youtube.com/watch?v=H2qVsUqtjyY'],
+           ['Veg Biryani quick & easy | वेज बिर्यानी कुकर में | Veg Biryani / pulao cooker recipe','https://www.youtube.com/watch?v=oKnKgzLgwR8']]
