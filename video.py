@@ -237,3 +237,58 @@ KadhiPakoda = [['Pakoda Kadhi Recipe with Tips n Triks','https://www.youtube.com
                ['Kadhi Pakora Recipe कढ़ी पकोड़ा रेसिपी','https://www.youtube.com/watch?v=Oa2s0dklrRo'],
                ['Punjabi Pakoda Kadhi','https://www.youtube.com/watch?v=zucwY4pw2Rk'],
                ['Punjabi Pakoda Kadhi पंजाबी पकौड़ा कढ़ी','https://www.youtube.com/watch?v=zucwY4pw2Rk']]
+
+Basundi = [['हलवाई जैसी बासुंदी बनाने का आसान तरीका - Basundi Recipe','https://www.youtube.com/watch?v=bep667hMUp4'],
+           ['Basundi Recipe Video - How To Make Basundi','https://www.youtube.com/watch?v=KNOv5WAiVkg'],
+           ['Basundi Recipe - Easy Gujarati / Maharashtrian Dessert','https://www.youtube.com/watch?v=-EiMS1UGAYI'],
+           ['Basundi Recipe','https://www.youtube.com/watch?v=LnyOdR-tNp0'],
+           ['Basundi recipe video हलवाई जैसी बासुंदी बनाने का तरीका basundi recipe','https://www.youtube.com/watch?v=tRT5B6j4Hqk']]
+
+Chapati = [['Roti, Phulka, Chapati Recipe step by step-How to make Soft Chapati and Roti-Indian Flat Bread Recipe','https://www.youtube.com/watch?v=4eKuJ6Xf2Fs'],
+           ['Chapati/ Chapati','https://www.youtube.com/watch?v=-cC8rpHqORU'],
+           ['How to make Soft Chapati - Soft Phulka Recipe - Roti - Indian Fulka bread','https://www.youtube.com/watch?v=zE0C-bHakL4'],
+           ['Restaurant Style Roomali Roti Recipe','https://www.youtube.com/watch?v=69rp58MnoOE'],
+           ['Roti, Chapati, Phulka that will be soft whole day','https://www.youtube.com/watch?v=Jefl1_GyNRw']]
+
+Phirni = [['Perfect Phirni Recipe,सिर्फ 3 चीज़ों से फिरनी बनाने का आसान तरीका','https://www.youtube.com/watch?v=93vGTNgg1Gs'],
+          ['Perfect Phirni Recipe,सिर्फ 3 चीज़ों से फिरनी बनाने का आसान तरीका','https://www.youtube.com/watch?v=93vGTNgg1Gs'],
+          ['Phirni Recipe - Firni/Punjabi Firni Recipe/ Shahi Phirni Recipe/ Asli Amritsari Firni/Eid Firni','https://www.youtube.com/watch?v=1G5p2bGJxIw'],
+          ['How to make Phirni','https://www.youtube.com/watch?v=K6sNNnjTEQ4'],
+          ['Quick Phirni Recipe from Leftover Rice','https://www.youtube.com/watch?v=vjv8mqg3zhs']]
+
+Chikki = [[' Peanut Chikki Moongfali Chikki','https://www.youtube.com/watch?v=i58QyZMD2po'],
+          ['Moongphali Gud ki Chikki','https://www.youtube.com/watch?v=07bpHG1gu_8'],
+          ['Crushed Peanut Chikki','https://www.youtube.com/watch?v=cytSCzVYRkU'],
+          ['Til Gajak Recipe','https://www.youtube.com/watch?v=WyNdnB0Dsqs'],
+          ['Yummy Til Ki Chikki','https://www.youtube.com/watch?v=m345mMwy8cc']]
+
+Sheera = [['Soft Halwai Style Suji ka Halwa Recipe','https://www.youtube.com/watch?v=q6sGlr9iM5c'],
+          ['Rava Sheera Recipe','https://www.youtube.com/watch?v=7QK48Z_Qs7Y'],
+          ['Sooji ka Halwa Rava Halwa Sheera Recipe','https://www.youtube.com/watch?v=LCNpm6YA_Hk'],
+          ['Sheera Sweet Dish Recipe','https://www.youtube.com/watch?v=c7CPSCs1XO4'],
+          ['Sooji Ka Halwa','https://www.youtube.com/watch?v=meyqEbT_HkQ']]
+
+KarelaBharta = [['Bharwa Karela Recipe','https://www.youtube.com/watch?v=LRL2tGXKW8w'],
+                ['दादी माँ से सीखिये भरवां करेला बनाने की सरल और पारम्परिक विधि Bharwan Karela Recipe','https://www.youtube.com/watch?v=v4RmirpfAQ0'],
+                ['Karela Sabji','https://www.youtube.com/watch?v=y-IPB-wcsRk'],
+                ['Maharashtrian style bharwa karela|traditional bharwa karela recipe|karele ki sabji','https://www.youtube.com/watch?v=0lAqy9UgcXM'],
+                ['stuffed karela recipe','https://www.youtube.com/watch?v=SPP_vNEUmpc']]
+
+ChamCham = [['Cham-Cham Mitha','youtube.com/watch?v=WRkPfPvSDTc'],
+            ['Traditional Bengali Cham Cham recipe','https://www.youtube.com/watch?v=lPLVFG3uGys'],
+            ['Chum Chum Recipe','https://www.youtube.com/watch?v=MTSPvYXSuOk'],
+            ['चमचम रेसिपी chamcham Sweet','https://www.youtube.com/watch?v=wiI99Xdku1c'],
+            ['Cham Cham Mithai Ki Recipe - हलवाई जैसी चम-चम मिठाई','https://www.youtube.com/watch?v=7ykCCfNOgEo']]
+
+Shrikhand = [['बाजार जैसा ये हे Shrikhand बनाने का असली तरीका','https://www.youtube.com/watch?v=BfQ6c7hEtmI'],
+             ['Shrikhand Recipe - Kesar Elaichi Shrikhand recipe','https://www.youtube.com/watch?v=2E-JGuRE0Lk'],
+             ['श्रीखंड कैसे बनाते हैं - Perfect Mango Shrikhand','https://www.youtube.com/watch?v=zMPFMvD0hrA'],
+             ['Homemade Shrikhand recipe','https://www.youtube.com/watch?v=oCXCdJlpHO0'],
+             ['Shrikhand kaise banae -shrikhand recipe','https://www.youtube.com/watch?v=5peANwoz6e4']]
+
+LittiChokha = [[' Sattu stuffed Batti Chokha Recipe on Gas Stove','https://www.youtube.com/watch?v=CqF4iPq9000'],
+               ['Litti Chokha Street style','https://www.youtube.com/watch?v=e6Tl_sAEkNU'],
+               ['Litti chokha in Pressure Cooker','https://www.youtube.com/watch?v=UU8mOns0Ndg'],
+               ['Bihari Style Litti Chokha Recipe','https://www.youtube.com/watch?v=IfeaysHvru8'],
+               ['न तन्दूर न ओवन, न अंगीठी। कुकर में बनायें लिट्टी चोखा आसान तरीके से | Homemade Litti Chokha Recipe','https://www.youtube.com/watch?v=Cw8PLsXnZRg']]
+
