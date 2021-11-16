@@ -418,4 +418,54 @@ Gavvalu = [['Wheat Flour Gavvalu Recipe','https://www.youtube.com/watch?v=TlL7Om
            ['Wheat Flour Gavvalu Recipe | Home Made Sweet Shells Making','https://www.youtube.com/watch?v=iAqIbDO6S24'],
            ['Karam Gavvalu (Masala Gavvalu/Spicy Shells)','https://www.youtube.com/watch?v=dDuOJ6r6Lxo']]
 
+Anarsa = [['बिहारी अनरसा बनाने की विधि | Anarsa | Anarsa Recipe','https://www.youtube.com/watch?v=n9tRSaSDBbg'],
+          ['परफेक्ट अनरसा रेसिपी टिप्स के साथ - Anarsa Recipe','https://www.youtube.com/watch?v=jOwiUmSC9Mk'],
+          ['Anarsa Recipe | Anarsa banane ki vidhi','https://www.youtube.com/watch?v=wltaAbFuiR8'],
+          ['Anarsa Recipe | चावल के अनरसे','https://www.youtube.com/watch?v=nMpQ_QDW5pU'],
+          ['अनारसा | Anarsa Recipe by madhurasrecipe','https://www.youtube.com/watch?v=Zla-FSuNxT0']]
 
+Rabri = [['Rabri Recipe - लच्छेदार खुरचन वाली रबड़ी - Lacchedar Khurchan wali Rabdi','https://www.youtube.com/watch?v=aBVT3IDnFk4'],
+         ['लच्छा रबडी बनायें, वो भी मिनटों में । Instant Rabdi Recipe','https://www.youtube.com/watch?v=EePkIU7dfBk'],
+         ['हलवाई जैसी परफेक्ट रबड़ी बनाने का तरीका | How to make Rabdi','https://www.youtube.com/watch?v=poDHwIVUSVg'],
+         ['सिर्फ इस एक ट्रिक से बनाये प्योर दूध से लच्छेदार रबड़ी खुरचन वाली | lachhedar Khurchan Wali Rabri','https://www.youtube.com/watch?v=bt7bS0EObT0'],
+         ['Easy Rabdi Recipe | Make Rabdi at Home (Hindi)','https://www.youtube.com/watch?v=PlSzfJDaXaI']]
+
+DaalBaatiChurma = [['राजस्थानी दाल बाटी चूरमा ऐसे बनाएंगे तो सब तारीफ करेंगे | Dal Baati Churma Recipe','https://www.youtube.com/watch?v=N3_R51ZXn7g'],
+                   ['राजस्थानी दाल बाटी चूरमा बनाने की विधि | Rajasthani Food | Dal Baati Churma Recipe','https://www.youtube.com/watch?v=eWAcCvqIP48'],
+                   ['हलवाई स्टाइल राजस्थानी दाल बाटी चूरमा बनायें घर पर | Marwari Dal, Bati in Cooker and Churma Recipe','https://www.youtube.com/watch?v=pdyPBZYcD9s'],
+                   ['Rajasthani Dal Bati Churma Recipe | How To Make Dal Bati Churma','https://www.youtube.com/watch?v=3VnUqfOdkHk'],
+                   ['Rajasthani Dal Bati Recipe - How To Make Dal Baati Churma','https://www.youtube.com/watch?v=2YIM5-4XIHQ']]
+
+SheerKorma = [['Sheer Khurma Recipe Shortcut method','https://www.youtube.com/watch?v=VayEVfCI6Y4'],
+              ['शीर खुरमा ईद की स्पेशल रेसिपी बनाये इस आसान और सटीक तरीके से | Sheer Khurma Recipe', 'https://www.youtube.com/watch?v=NL46QZ7_elU'],
+              ['Sheer Khurma Recipe - Hyderabadi Shahi Sheer Khurma','https://www.youtube.com/watch?v=lQfcN03qF_A'],
+              ['Sheer Khurma | शीर खुरमा','https://www.youtube.com/watch?v=LI9AIwfPJbk'],
+              ['Sheer Khurma','https://www.youtube.com/watch?v=ALyuSgQn_EM']]
+
+Pootharekulu = [['Putharekulu | Putarekulu Sweet Making Process - Pootharekulu Recipe','https://www.youtube.com/watch?v=FBu7aHLqwMs'],
+                ['Paper sweet preparation at home just 10 minute without pot make easily','https://www.youtube.com/watch?v=YW_5yTyW_DY'],
+                ['Pootharekulu Making In Atreyapuram','https://www.youtube.com/watch?v=BW1aBKK1UgQ'],
+                ['Andhra Recipes - Pootarekulu','https://www.youtube.com/watch?v=OyZ_YmoyP6g'],
+                ['Andhra Recipes - Pootarekulu','https://www.youtube.com/watch?v=OyZ_YmoyP6g']]
+
+AlooShimlaMirch = [['Shimla Mirch aur Aloo recipe','https://www.youtube.com/watch?v=6N0oe-lpwTM'],
+                   ['Simla Mirch Aur Aloo Recipe - Potato Capsicum Recipe','https://www.youtube.com/watch?v=7JvtWTGhzDc'],
+                   ['Aloo Shimla mirch Recipe | आलू की सब्जी','https://www.youtube.com/watch?v=DK_cL_zP9xY'],
+                   ['सूखे आलू की 2 सब्जी | Jeera Aloo | Aloo Shimla Mirch','https://www.youtube.com/watch?v=BLnaaIBeDaE'],
+                   ['Aloo Shimla Mirch | आलू शिमला मिर्च','https://www.youtube.com/watch?v=KzoXARk1VAc']]
+
+GulabJamun = [['Perfect Gulab Jamun Recipe NO Khoya','https://www.youtube.com/watch?v=Do9mk9mya_A&t=26s'],
+              ['Gulab Jamun at home | गुलाब जामुन की रेसिपी','https://www.youtube.com/watch?v=VVhs1wj9DhU'],
+              ['Gulab Jamun | हलवाई जैसे मावे के गुलाब जामुन','https://www.youtube.com/watch?v=GptRW9Lsyj0&t=45s'],
+              ['Khoya Gulab Jamun recipe','https://www.youtube.com/watch?v=a_lMfC59S60'],
+              ['Gits Instant Gulab Jamun Mix','https://www.youtube.com/watch?v=fA_4UbYpbAM']]
+
+PaneerButterMasala = [['Restaurant style Paneer Butter Masala','https://www.youtube.com/watch?v=a30BLUQiFoc'],
+                      ['Restaurant style Paneer Butter Masala l पनीर बटर मसाला','https://www.youtube.com/watch?v=jjomohsMMpI'],
+                      ['पनीर बटर मसाला | होटल जैसी बटर पनीर की रेसिपी | Restaurant Style Butter Paneer Makhanwala','https://www.youtube.com/watch?v=eLsf82whio8'],
+                      ['Restaurant style Paneer Butter Masala | hotel style butter paneer makhanwala with tips & tricks','https://www.youtube.com/watch?v=U1LVDFwi8qI'],
+                      ['Paneer Butter Masala Recipe-Restaurant Style Paneer Makhani or Paneer Butter Masala- Butter Paneer','https://www.youtube.com/watch?v=Nr9x7eTpXi8']]
+
+Modak = [[]]
+
+Biryani = [[]]
