@@ -7,6 +7,15 @@ import tensorflow
 import time
 from test2 import calories
 from test3 import catogries
+from video import *
+from t1 import video_links
+import random
+import pafy
+
+def fetch_yt_video(link):
+    video = pafy.new(link)
+    return video.title
+
 
 st.set_page_config(
    page_title="Food Classification",
@@ -29,6 +38,7 @@ new_list = []
 for i in labels:
     i = i.title().replace('_', ' ')
     new_list.append(i)
+print(new_list)
 def load_image(uploaded_file):
     img = Image.open(uploaded_file).resize((250,250))
     return img
@@ -57,9 +67,22 @@ def run():
         prediction = model.predict(prediction_image)
         value = np.argmax(prediction)
         # move_name=mapper(value)
-        st.success("Prediction Food is "+ new_list[int(value)])
+        food_name = new_list[int(value)]
+        rec_vid_list = video_links[food_name]
+        ran_video = random.choice(rec_vid_list)
+        print(ran_video)
+
+
+
+        st.success("Prediction Food is "+ food_name)
         st.info('You will get the '+str(calories[new_list[int(value)]])+' Calories from '+new_list[int(value)])
         st.info('This Food is  ' + str(catogries[new_list[int(value)]]))
+
+        ## Recommend video
+        st.header("**Recipe Video For "+ food_name+'**')
+        vid_ti = fetch_yt_video(ran_video)
+        st.subheader(vid_ti)
+        st.video(ran_video)
     else:
         st.warning("Upload an Image to continue.")
 run()
