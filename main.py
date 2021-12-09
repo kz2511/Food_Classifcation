@@ -11,6 +11,8 @@ from video import *
 from t1 import video_links
 import random
 import pafy
+import pymysql
+
 
 def fetch_yt_video(link):
     video = pafy.new(link)
@@ -72,8 +74,6 @@ def run():
         ran_video = random.choice(rec_vid_list)
         print(ran_video)
 
-
-
         st.success("Prediction Food is "+ food_name)
         st.info('You will get the '+str(calories[new_list[int(value)]])+' Calories from '+new_list[int(value)])
         st.info('This Food is  ' + str(catogries[new_list[int(value)]]))
@@ -83,6 +83,22 @@ def run():
         vid_ti = fetch_yt_video(ran_video)
         st.subheader(vid_ti)
         st.video(ran_video)
+
+        videoLinksCommaSeperated = ""
+        for  i in rec_vid_list:
+            videoLinksCommaSeperated += str(i) + ", "
+
+        connection = pymysql.connect(host="localhost", user="root", password="", database="FOOD_PREDICTION")
+        cursor = connection.cursor()
+
+        print("Video Links Seperated", videoLinksCommaSeperated)
+        #     Query
+        query = 'INSERT INTO predictions(prediction, veg_or_non_veg, calorie_count, youtube_predictions, image_path) VALUES(%s,%s,%s,%s,%s)'
+        valuesToInsert = (food_name, str(catogries[new_list[int(value)]]), str(calories[new_list[int(value)]]), videoLinksCommaSeperated, save_image_path)
+        cursor.execute(query, valuesToInsert)
+
+        connection.commit()
+
     else:
         st.warning("Upload an Image to continue.")
 run()

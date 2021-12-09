@@ -11,13 +11,12 @@ def createdatabase():
 def createtableuserdata():
     connection = pymysql.connect(host="localhost", user="root", password="",database="FOOD_PREDICTION")
     currsor = connection.cursor()
-    currsor.execute("""CREATE TABLE IF NOT EXISTS USER_DATA ( 
-        Food_Name Varchar(100) NOT NULL,
-        Calories_Count Varchar(100) NOT NULL,
-        Image_Id Integer NOT NULL,
-        Timestamp Varchar(100) NOT NULL,
-        Food_Preparing_Time Varchar(100) NOT NULL,
-        Energyandcrabs Varchar(100) NOT NULL
-    )
-       """)
+    currsor.execute("CREATE TABLE IF NOT EXISTS predictions (id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,prediction VARCHAR(50),veg_or_non_veg VARCHAR(20),calorie_count VARCHAR(10),youtube_predictions TEXT,image_path TEXT)")
 createtableuserdata()
+
+
+# ID AUTO INCREMENT INT
+# Prediction VARCHAR
+# VegOrNonVeg VARCHAR
+# Youtube Predictions TEXT
+# Image Link TEXT
