@@ -37,7 +37,7 @@ def get_table_download_link(df,filename,text):
 
 st.set_page_config(
    page_title="Food Classification",
-   page_icon="🧊",
+   page_icon="logo.ico",
 )
 labels = ['mysore_pak', 'ghevar', 'sohan_papdi', 'ras_malai', 'ariselu', 'kofta', 'aloo_tikki',
                           'gajar_ka_halwa', 'chhena_kheeri', 'kakinada_khaja', 'lassi', 'naan', 'chak_hao_kheer',
@@ -73,7 +73,7 @@ def run():
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
 
     if choice == 'Normal User':
-        st.title('Food Classification and calorie count')
+        st.title('Food Classification and Calorie Count')
         uploaded_file = st.file_uploader("Upload Food Image", type=['png', 'jpeg', 'jpg'])
         if uploaded_file is not None:
             file_details = {"FileName": uploaded_file.name, "FileType": uploaded_file.type,
@@ -99,10 +99,12 @@ def run():
             ran_video = random.choice(rec_vid_list)
             print(ran_video)
 
-            st.success("Prediction Food is " + food_name)
-            st.info(
-                'You will get the ' + str(calories[new_list[int(value)]]) + ' Calories from ' + new_list[int(value)])
-            st.info('This Food is  ' + str(catogries[new_list[int(value)]]))
+            st.header("🍲 **Prediction Food is " + food_name+'**')
+            st.subheader('✅ You will get the ' + str(calories[new_list[int(value)]]) + ' Calories from ' + new_list[int(value)])
+            if str(catogries[new_list[int(value)]]) == 'Veg':
+                st.success('This Food is  ' + str(catogries[new_list[int(value)]]))
+            else:
+                st.error('This Food is  ' + str(catogries[new_list[int(value)]]))
 
             ## Recommend video
             st.header("**Recipe Video For " + food_name + '**')
@@ -129,7 +131,7 @@ def run():
             st.warning("Upload an Image to continue.")
 
     else:
-        st.title('Food Classification and calorie count')
+        st.title('Food Classification and Calorie Count')
         ## Admin Side
         st.info('Welcome to admin side')
         st.sidebar.warning('Please Enter Id and Password')
