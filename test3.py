@@ -72,11 +72,11 @@ catogries={
     'Anarsa':'Veg',
     'Rabri':'Veg',
     'Daal Baati Churma':'Veg',
-    'Sheer Korma':'Non-Veg',
+    'Sheer Korma':'Veg',
     'Pootharekulu':'Veg',
     'Aloo Shimla Mirch':'Veg',
     'Gulab Jamun':'Veg',
     'Paneer Butter Masala':'Veg',
     'Modak':'Veg',
-    'Biryani':'Veg',
+    'Biryani':'Non-Veg',
 }
